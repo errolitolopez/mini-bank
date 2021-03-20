@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/date" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/gateway-event" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/gateway-exchange-rate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/gateway-source-account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/gateway-transaction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/gateway-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain/user-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interactor" charset="UTF-8" />
+  </component>
+</project>

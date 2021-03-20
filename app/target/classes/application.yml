@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+
+exchange-rate:
+  url: https://api.exchangeratesapi.io

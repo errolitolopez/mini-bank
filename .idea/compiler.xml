@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gateway-source-account" />
+        <module name="commons" />
+        <module name="data" />
+        <module name="interactor" />
+        <module name="gateway-transaction" />
+        <module name="gateway-exchange-rate" />
+        <module name="app" />
+        <module name="gateway-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="date" target="1.8" />
+      <module name="gateway-event" target="1.8" />
+      <module name="user" target="1.8" />
+      <module name="user-gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="app" options="-parameters" />
+      <module name="commons" options="-parameters" />
+      <module name="data" options="-parameters" />
+      <module name="date" options="-parameters" />
+      <module name="domain" options="-parameters" />
+      <module name="gateway-event" options="-parameters" />
+      <module name="gateway-exchange-rate" options="-parameters" />
+      <module name="gateway-source-account" options="-parameters" />
+      <module name="gateway-transaction" options="-parameters" />
+      <module name="gateway-user" options="-parameters" />
+      <module name="interactor" options="-parameters" />
+      <module name="mini-bank" options="-parameters" />
+      <module name="user" options="-parameters" />
+      <module name="user-gateway" options="-parameters" />
+    </option>
+  </component>
+</project>
